@@ -1,0 +1,4 @@
+ultralytics==8.0.23
+PyQt5==5.15.10
+lxml==5.2.2
+labelImg==1.0.6
